@@ -11,6 +11,7 @@
 		1E8E32772BDDB1350008D7CA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E8E32762BDDB1350008D7CA /* ContentView.swift */; };
 		1E8E32792BDDB1370008D7CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E8E32782BDDB1370008D7CA /* Assets.xcassets */; };
 		1E8E327C2BDDB1370008D7CA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E8E327B2BDDB1370008D7CA /* Preview Assets.xcassets */; };
+		1E8E32832BDDB1580008D7CA /* SplashScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E8E32822BDDB1580008D7CA /* SplashScreenView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1E8E32762BDDB1350008D7CA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1E8E32782BDDB1370008D7CA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E8E327B2BDDB1370008D7CA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1E8E32822BDDB1580008D7CA /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				1E8E32742BDDB1350008D7CA /* SplashScreen_SwiftUiApp.swift */,
 				1E8E32762BDDB1350008D7CA /* ContentView.swift */,
+				1E8E32822BDDB1580008D7CA /* SplashScreenView.swift */,
 				1E8E32782BDDB1370008D7CA /* Assets.xcassets */,
 				1E8E327A2BDDB1370008D7CA /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				1E8E32772BDDB1350008D7CA /* ContentView.swift in Sources */,
 				1E8E32752BDDB1350008D7CA /* SplashScreen_SwiftUiApp.swift in Sources */,
+				1E8E32832BDDB1580008D7CA /* SplashScreenView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
